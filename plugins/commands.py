@@ -22,7 +22,10 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/MKSVIPLINK"),
+                    ],
+                    [
+                        InlineKeyboardButton("⭕️ Group ⭕️ ", url="https://t.me/MKS_RequestGroup")
                     ]
                 ]
             ),
@@ -45,7 +48,10 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/MKSVIPLINK"),
+                    ],
+                    [
+                        InlineKeyboardButton("⭕️ Group ⭕️ ", url="https://t.me/MKS_RequestGroup")
                     ]
                 ]
             ),
@@ -68,7 +74,12 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/MKSVIPLINK"),
+                        InlineKeyboardButton("⭕️SOURCE COD ⭕️ ", url="https://heroku.com/deploy?template=https://github.com/Kopaing12/Auto-Filter-Bot-V2"),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            "SOURCE CODE", url="https://heroku.com/deploy?template=https://github.com/Kopaing12/Auto-Filter-Bot-V2")
                     ]
                 ]
             ),
