@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>မင်္ဂလာပါ   {} 
 
-ကျွန်တော်ကတော့ Auto Filter Bot
+ကျွန်တော်ကတော့ Auto Filter Bot ပါ
 
 ကျွန်တော်ကို Group ‌နဲ့ Movie Channel များတွင် Admin ထည့်ပြီး မည်သူမဆိုလွတ်လပ်စွာအသုံးပြုနိုင်ပါတယ်။..
 
