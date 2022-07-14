@@ -192,7 +192,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+                [InlineKeyboardButton("❣️ JOIN MAIN CHANNEL ❣️ ", url="https://t.me/MKSVIPLINK")]
             ])
 
             await query.message.edit_text(
@@ -207,7 +207,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")]
+                [InlineKeyboardButton("SOURCE CODE", url="https://heroku.com/deploy?template=https://github.com/Kopaing12/Auto-Filter-Bot-V2")]
             ])
 
             await query.message.edit_text(
