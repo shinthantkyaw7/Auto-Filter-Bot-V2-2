@@ -1,25 +1,21 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>မင်္ဂလာပါ   {} 
 
-You can call this as an Auto Filter Bot if you like :D
+ကျွန်တော်ကတော့ Auto Filter Bot
 
-This is Version 2 of Auto Filter Bot
+ကျွန်တော်ကို Group ‌နဲ့ Movie Channel များတွင် Admin ထည့်ပြီး မည်သူမဆိုလွတ်လပ်စွာအသုံးပြုနိုင်ပါတယ်။..
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+@KOPAING15 <i>-Contact Me</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
 
 <i>
-* Add bot to your group with admin rights.
+* စီမံခန့်ခွဲသူအခွင့်အရေးဖြင့် သင့်အဖွဲ့သို့ ဘော့တ်ကို ထည့်ပါ။
 
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+* သင်ချိတ်ဆက်လိုသော ချန်နယ်များသို့ ဘော့တ်ကို ထည့်ပါ။။ <b> အခွင့်အရေးအားလုံး admin ပေးပါ</b>!
 </i>
 
 
@@ -30,7 +26,7 @@ For more click <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : You can get your channel ID from @MT_ID_BOT </i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -53,17 +49,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @KOPAING15</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : KO PAing </b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @KOPAING15
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Tutorial Video :</b> <a href='https://t.me/mksmainchannel'>Video Link</a> 
 
 """
